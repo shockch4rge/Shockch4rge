@@ -8,7 +8,7 @@ I play the classical/acoustic guitar, and a sprinkle of piano. Music's often my 
 
 **⚙️ TECH!** 
 
-When I'm not immersing myself in music, I'm adept with new technology/secrets/tips/languages/hoo-ha that spring up from time to time. Be it software or hardware, I'm always on the lookout for new breakthroughs in the ever-growing and adapting environment which is tech.
+When I'm not immersing myself in music, I'm adept with new technology/secrets/tips/languages/hoo-ha that spring up from time to time. Be it software or hardware, I'm always on the lookout for new breakthroughs in the ever-growing and adapting environment of technology.
 
 **🎮 GAMING!** 
 
@@ -26,11 +26,14 @@ Here's what I've been exposed to, and what I think about them:
 My favourite language? Hard to say. I'm not a very opinionated developer. But I do have my likes and dislikes.
 
 ## What I've made ✅
-- **BitJam Music Player** (Java, Android)
+- [java-android-bitjam] (Java, Android) - A music player for Android.
 
 A really primitive music player for Android systems. Built for a school project. *(here's hoping I get an A for it lol)*
 
 ## What I'm working on 🛠️
-- **BitJam Music Bot** (TypeScript, Discord)
+- [ts-discord-bitjam] (TypeScript, Discord) - A music bot for Discord.
 
 An even less versatile music player, but I'm still grasping the fundamentals of using APIs.
+
+[**BitJam Music Player**]: https://github.com/Shockch4rge/java-android-BitJam
+[**BitJam Music Bot**]: https://github.com/Shockch4rge/ts-discord-bitjam
