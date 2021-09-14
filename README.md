@@ -26,14 +26,14 @@ Here's what I've been exposed to, and what I think about them:
 My favourite language? Hard to say. I'm not a very opinionated developer. But I do have my likes and dislikes.
 
 ## What I've made ✅
-- [java-android-bitjam] (Java, Android) - A music player for Android.
+- [**java-android-bitjam**] (Java, Android) - A music player for Android.
 
 A really primitive music player for Android systems. Built for a school project. *(here's hoping I get an A for it lol)*
 
 ## What I'm working on 🛠️
-- [ts-discord-bitjam] (TypeScript, Discord) - A music bot for Discord.
+- [**ts-discord-bitjam**] (TypeScript, Discord) - A music bot for Discord.
 
 An even less versatile music player, but I'm still grasping the fundamentals of using APIs.
 
-[**BitJam Music Player**]: https://github.com/Shockch4rge/java-android-BitJam
-[**BitJam Music Bot**]: https://github.com/Shockch4rge/ts-discord-bitjam
+[**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
+[**ts-discord-bitjam**]: https://github.com/Shockch4rge/ts-discord-bitjam
