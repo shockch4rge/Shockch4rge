@@ -12,7 +12,7 @@ When I'm not immersing myself in music, I'm adept with new technology/secrets/ti
 
 **🎮 GAMING!** 
 
-At the end of the day, I might just wind down for a few hours of gaming. Well, not as much as I did a few years ago, but I still enjoy when they are well-constructed and enjoyable. One of my absolute favourites is Far Cry 5; love its open-world design!
+At the end of the day, I might just wind down for a few hours of gaming. Well, not as much as I did a few years ago, but I am still very critical of well-constructed and enjoyable games. One of my absolute favourites is Far Cry 5; love its open-world design!
 
 ## My programming language proficiency 📖
 Like all languages, be it communicating with people or talking to really stupid machines, learning them is hard.
