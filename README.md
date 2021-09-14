@@ -17,10 +17,10 @@ At the end of the day, I might just wind down for a few hours of gaming. Well, n
 ## My programming language proficiency 📖
 Like all languages, be it communicating with people or talking to really stupid machines, learning them is hard.
 Here's what I've been exposed to, and what I think about them:
-- Python 🐍 (great language for beginners and general use; pretty difficult syntax - at least for me)
-- Java ☕ (incredible language to introduce OOP; really ancient - and too many words!)
-- JavaScript 🔨 (the basic foundation of the web; crazy annoying loose typing and weird syntax) 
-- TypeScript ⬆️ (upgraded JavaScript in every way; it's pretty good)
+- **Python** 🐍 (great language for beginners and general use; pretty difficult syntax - at least for me)
+- **Java** ☕ (incredible language to introduce OOP; really ancient - and too many words!)
+- **JavaScript** 🔨 (the basic foundation of the web; crazy annoying loose typing and weird syntax) 
+- **TypeScript** ⬆️ (upgraded JavaScript in every way; it's pretty good)
 - *and many more to come...*
 
 My favourite language? Hard to say. I'm not a very opinionated developer. But I do have my likes and dislikes.
