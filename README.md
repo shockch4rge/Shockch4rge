@@ -28,7 +28,7 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 ## What I've made ✅
 - [**java-android-bitjam**] (Java, Android) - A music player for Android.
 
-A really primitive music player for Android systems. Built for a school project. *(Edit: I got an A!)*
+A really primitive music player for Android systems. Built for a school project. *(Edit: I got a distinction!)*
 
 ## What I'm working on 🛠️
 - [**ts-discord-bitjam**] (TypeScript, Discord) - A music bot for Discord.
