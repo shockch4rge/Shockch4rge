@@ -21,6 +21,7 @@ Here's what I've been exposed to, and what I think about them:
 - **Java** ☕ (incredible language to introduce OOP // really ancient - and too verbose!)
 - **JavaScript** 🔨 (the basic foundation of the web // crazy annoying loose typing and weird syntax) 
 - **TypeScript** ⬆️ (upgraded JavaScript in every way // it's pretty good)
+- **Solidity** (WIP)
 - *and many more to come...*
 
 My favourite language? Hard to say. I'm not a very opinionated developer. But I do have my likes and dislikes. It's still too early for me to judge!
@@ -32,8 +33,9 @@ A really primitive music player for Android systems. Built for a school project.
 
 ## What I'm working on 🛠️
 - [**ts-discord-bitjam**] (TypeScript, Discord) - A music bot for Discord.
+- [**ts-discord-bittrivia**] (TypeScript, Discord) - A bot that asks random questions with every message sent, randomly.
 
-An even less versatile music player, but I'm still grasping the fundamentals of using APIs.
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
 [**ts-discord-bitjam**]: https://github.com/Shockch4rge/ts-discord-bitjam
+[**ts-discord-bittrivia**]: https://github.com/Shockch4rge/ts-discord-bittrivia
