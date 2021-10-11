@@ -28,12 +28,12 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 
 ## What I've made ✅
 - [**java-android-bitjam**] (Java, Android) - A music player for Android.
+- [**ts-discord-bittrivia**] (TypeScript, Discord) - A bot that asks random questions with every message sent, randomly.
 
 A really primitive music player for Android systems. Built for a school project. *(Edit: I got a distinction!)*
 
 ## What I'm working on 🛠️
 - [**ts-discord-bitjam**] (TypeScript, Discord) - A music bot for Discord.
-- [**ts-discord-bittrivia**] (TypeScript, Discord) - A bot that asks random questions with every message sent, randomly.
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
