@@ -1,6 +1,6 @@
 ## Hi there, I'm Favian.
 
-I'm 17, and I live in Singapore. I'm not a very interesting person. But here's some stuff that I like:
+I'm 18, and I live in Singapore. I'm not a very interesting person. But here's some stuff that I like:
 
 **🎸 MUSIC!** 
 
