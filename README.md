@@ -34,7 +34,7 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 - [**ts-discord-bitjam**] (TypeScript, Discord) - A music bot for Discord.
 
 ## What I'm working on 🛠️
-- **react-node-findmyfood** (React TS) - A restaurant lookup and review website.
+- **react-redux-findmyfood** (React.ts, Redux Toolkit) - A restaurant lookup and review website.
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
