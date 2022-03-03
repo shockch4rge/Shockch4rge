@@ -33,10 +33,14 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 
 - [**ts-discord-bitjam**] (TypeScript, Discord) - A music bot for Discord.
 
+- [**react-redux-findmyfood**] (React.ts, Redux Toolkit) - A restaurant lookup and review website.
+
 ## What I'm working on 🛠️
-- **react-redux-findmyfood** (React.ts, Redux Toolkit) - A restaurant lookup and review website.
+- [**ts-discord-valor**] (TypeScript, Discord) - A Valorant stats tracker bot with extra functionality.
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
 [**ts-discord-bitjam**]: https://github.com/Shockch4rge/ts-discord-bitjam
 [**ts-discord-bittrivia**]: https://github.com/Shockch4rge/ts-discord-bittrivia
+[**react-redux-findmyfood**]: https://github.com/Shockch4rge/react-redux-findmyfood
+[**ts-discord-valor**]: https://github.com/Shockch4rge/ts-discord-valor
