@@ -36,7 +36,7 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 - [**react-redux-findmyfood**] (React.ts, Redux Toolkit) - A restaurant lookup and review website.
 
 ## What I'm working on 🛠️
-- [**ts-discord-valor**] (TypeScript, Discord) - A Valorant stats tracker bot with extra functionality.
+- [**djs-message-commands**] (TypeScript, Discord) - An npm package to facilitate creating and handling message commands in Discord.
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
