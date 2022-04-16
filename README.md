@@ -8,23 +8,25 @@ I play the classical/acoustic guitar, and a sprinkle of piano. Music's often my 
 
 **⚙️ TECH!** 
 
-When I'm not immersing myself in music, I'm adept with new technology/secrets/tips/languages/hoo-ha that spring up from time to time. Be it software or hardware, I'm always on the lookout for new breakthroughs in the ever-growing and adapting environment of technology.
+When I'm not immersing myself in music, I'm adept with new technology, languages, (*~and 10 new JS frameworks~*) that spring up from time to time. Be it software or hardware, I'm always on the lookout for new breakthroughs in the ever-growing and adapting environment of technology.
 
 **🎮 GAMING!** 
 
 At the end of the day, I might just wind down for a few hours of gaming. Well, not as much as I did a few years ago, but I am still very critical of well-constructed and enjoyable games. One of my absolute favourites is Far Cry 5; love its open-world design!
 
 ## My programming language proficiency 📖
-Like all languages, be it communicating with people or talking to really stupid machines, learning them is hard. Here's what I've been exposed to.
+I love to expose myself to the quirks of languages when I have time. Here's what I'm comfortable with so far:
 - **Python** 🐍
 - **Java** ☕
 - **JavaScript** 🔨
 - **TypeScript** ⬆️
 - **PHP** (WIP)
 - **React** (WIP)
+- **Rust** (WIP)
+- **Dart (Flutter)** (WIP)
 - *and many more to come...*
 
-My favourite language? Hard to say. I'm not a very opinionated developer. But I do have my likes and dislikes. It's still too early for me to judge!
+My favourite language? Hard to say. I'm not a very opinionated developer. Though I have my likes and dislikes, it's still too early for me to judge!
 
 ## What I've made ✅
 - [**java-android-bitjam**] (Java, Android) - A music player for Android.
@@ -35,8 +37,12 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 
 - [**react-redux-findmyfood**] (React.ts, Redux Toolkit) - A restaurant lookup and review website.
 
-## What I'm working on 🛠️
 - [**djs-message-commands**] (TypeScript, Discord) - An npm package to facilitate creating and handling message commands in Discord.
+
+## What I'm working on 🛠️
+- [**react-goodtalk**], [**node-websocket-goodtalk**] (React, Node) - A basic chat app built with Redux and WebSockets.
+
+- [**ts-discord-bitjam-v2**] (TypeScript, Discord) - An enhanced version of [**ts-discord-bitjam**] as it was pretty slow and the code was messy.
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
@@ -44,3 +50,7 @@ My favourite language? Hard to say. I'm not a very opinionated developer. But I 
 [**ts-discord-bittrivia**]: https://github.com/Shockch4rge/ts-discord-bittrivia
 [**react-redux-findmyfood**]: https://github.com/Shockch4rge/react-redux-findmyfood
 [**ts-discord-valor**]: https://github.com/Shockch4rge/ts-discord-valor
+[**djs-message-commands**]: https://github.com/Shockch4rge/djs-message-commands
+[**react-goodtalk**]: https://github.com/Shockch4rge/react-goodtalk
+[**node-websocket-goodtalk**]: https://github.com/Shockch4rge/node-websocket-goodtalk
+[**ts-discord-bitjam-v2**]: https://github.com/Shockch4rge/ts-discord-bitjam
