@@ -14,19 +14,13 @@ When I'm not immersing myself in music, I'm adept with new technology, languages
 
 At the end of the day, I might just wind down for a few hours of gaming. Well, not as much as I did a few years ago, but I am still very critical of well-constructed and enjoyable games. One of my absolute favourites is Far Cry 5; love its open-world design!
 
-## My programming language proficiency 📖
-I love to expose myself to the quirks of languages when I have time. Here's what I'm comfortable with so far:
-- **Python** 🐍
-- **Java** ☕
-- **JavaScript** 🔨
-- **TypeScript** ⬆️
-- **PHP** (WIP)
-- **React** (WIP)
-- **Rust** (WIP)
-- **Dart (Flutter)** (WIP)
+## My developer proficiency 📖
+I love to expose myself to the many quirks of different web technologies when I have time. Here's what I'm comfortable with so far:
+
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2D79C7?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/> <img alt="DiscordJS" src="https://img.shields.io/badge/-DiscordJS-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/-Python-3471A2?style=flat-square&logo=python&logoColor=FFD03C" /> <img alt="Java" src="https://img.shields.io/badge/Java-E96D03?style=flat-square&logo=java&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML-EF652A?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-33A8DD?style=flat-square&logo=css3&logoColor=white" /> <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-19B9B9?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-8E6FFE?style=flat-square&logo=vite&logoColor=FFC71F" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-237895?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Firebase Firestore" src="https://img.shields.io/badge/Firebase Firestore-039BE6?style=flat-square&logo=firebase&logoColor=FECC2F" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-81BF78?style=flat-square&logo=node.js&logoColor=white" />
 - *and many more to come...*
 
-My favourite language? Hard to say. I'm not a very opinionated developer. Though I have my likes and dislikes, it's still too early for me to judge!
+My favourite one? Hard to say. I'm not a very opinionated developer. Though I have my likes and dislikes, it's still too early for me to judge!
 
 ## What I've made ✅
 - [**java-android-bitjam**] (Java, Android) - A music player for Android.
