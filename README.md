@@ -1,6 +1,8 @@
-## Hi there, I'm Favian.
+![hero_image](./github_hero.png)
 
-I'm 18, and I live in Singapore. I'm not a very interesting person. But here's some stuff that I like:
+## Hi there, I'm Favian Teo.
+
+I'm 18, and I live in Singapore! I'm not a very interesting person. But here's some stuff that I like:
 
 **🎸 MUSIC!** 
 
