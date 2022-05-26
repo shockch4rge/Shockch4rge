@@ -36,9 +36,7 @@ My favourite one? Hard to say. I'm not a very opinionated developer. Though I ha
 - [**djs-message-commands**] (TypeScript, Discord) - An npm package to facilitate creating and handling message commands in Discord.
 
 ## What I'm working on 🛠️
-- [**react-goodtalk**], [**node-websocket-goodtalk**] (React, Node) - A basic chat app built with Redux and WebSockets.
-
-- [**ts-discord-bitjam-v2**] (TypeScript, Discord) - An enhanced version of [**ts-discord-bitjam**] as it was pretty slow and the code was messy.
+- [**ts-discord-bitjam-v2**] (TypeScript, Discord) - An enhanced version of [**ts-discord-bitjam**] as I'm looking to improve the codebase and existing UX.
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
