@@ -35,8 +35,12 @@ My favourite one? Hard to say. I'm not a very opinionated developer. Though I ha
 
 - [**djs-message-commands**] (TypeScript, Discord) - An npm package to facilitate creating and handling message commands in Discord.
 
+- [**flutter-recipedia**] (Flutter) - A Flutter application for creating, and sharing recipes with the people you follow.
+
+- [**flow**] (Laravel, React) - A workflow management tool on the web. 
+
 ## What I'm working on 🛠️
-- [**ts-discord-bitjam-v2**] (TypeScript, Discord) - An enhanced version of [**ts-discord-bitjam**] as I'm looking to improve the codebase and existing UX.
+- [**discord-triton**] (TypeScript, Discord) - A Discord bot framework in TypeScript that aims to provide good DX and to be as robust as possible. 
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
@@ -48,3 +52,5 @@ My favourite one? Hard to say. I'm not a very opinionated developer. Though I ha
 [**react-goodtalk**]: https://github.com/Shockch4rge/react-goodtalk
 [**node-websocket-goodtalk**]: https://github.com/Shockch4rge/node-websocket-goodtalk
 [**ts-discord-bitjam-v2**]: https://github.com/Shockch4rge/ts-discord-bitjam
+[**flutter-recipedia**]: https://github.com/Shockch4rge/flutter-recipedia
+[**flow**]: https://github.com/Shockch4rge/flow-frontend
