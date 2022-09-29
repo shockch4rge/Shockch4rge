@@ -40,7 +40,7 @@ My favourite one? Hard to say. I'm not a very opinionated developer. Though I ha
 - [**flow**] (Laravel, React) - A workflow management tool on the web. 
 
 ## What I'm working on 🛠️
-- [**discord-triton**] (TypeScript, Discord) - A Discord bot framework in TypeScript that aims to provide good DX and to be as robust as possible. 
+- [**discord-hyperion**] (TypeScript, Discord) - A Discord bot framework in TypeScript that aims to provide good DX and to be as robust as possible. 
 
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
@@ -54,3 +54,4 @@ My favourite one? Hard to say. I'm not a very opinionated developer. Though I ha
 [**ts-discord-bitjam-v2**]: https://github.com/Shockch4rge/ts-discord-bitjam
 [**flutter-recipedia**]: https://github.com/Shockch4rge/flutter-recipedia
 [**flow**]: https://github.com/Shockch4rge/flow-frontend
+[**discord-hyperion**]: https://github.com/Shockch4rge/discord-hyperion
