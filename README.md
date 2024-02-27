@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Favian Teo.
 
-I'm 19, and I live in Singapore! I'm not a very interesting person. But here's some stuff that I like:
+I'm 20, and I live in Singapore! I'm not a very interesting person. But here's some stuff that I like:
 
 **🎸 MUSIC!** 
 
