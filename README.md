@@ -38,7 +38,7 @@ I love to expose myself to the many quirks of different web technologies when I 
 +more projects that can't fit this list!
 
 ## What I'm working on 🛠️
-- [**discord-hyperion**] (TypeScript, Discord) - A Discord bot framework in TypeScript that aims to provide good DX and to be as robust as possible. 
+- [**astro-portfolio**] (Astro) - My portfolio website.
 
 [**java-android-bitjam**]: https://github.com/Shockch4rge/java-android-BitJam
 [**ts-discord-bitjam**]: https://github.com/Shockch4rge/ts-discord-bitjam
@@ -52,3 +52,4 @@ I love to expose myself to the many quirks of different web technologies when I 
 [**flutter-recipedia**]: https://github.com/Shockch4rge/flutter-recipedia
 [**flow**]: https://github.com/Shockch4rge/flow-frontend
 [**discord-hyperion**]: https://github.com/Shockch4rge/discord-hyperion
+[**astro-portfolio**]: https://github.com/Shockch4rge/astro-portfolio
